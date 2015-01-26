@@ -10,12 +10,13 @@ package bcontornos;
  * @author dreylopez
  */
 class Contornos {
+    
      public void visualizar(){
         
         System.out.println("Hola que tal");
     }
      public void cuadrado(){
-         
+         System.out.println(""+4*5);
      }
     
 }
