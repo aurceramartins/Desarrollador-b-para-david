@@ -14,5 +14,8 @@ class Contornos {
         
         System.out.println("Hola que tal");
     }
+     public void cuadrado(){
+         
+     }
     
 }
